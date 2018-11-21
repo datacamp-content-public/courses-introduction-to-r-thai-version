@@ -1,9 +1,9 @@
 ---
-title: 'Chapter Title Here'
+title: 'ทำความรู้จัก R'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## R 101
 
 ```yaml
 type: NormalExercise
